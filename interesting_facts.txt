@@ -1,0 +1,3 @@
+  // , You can't make a script that is valid now, but not valid later. 
+CheckLockTimeVerify only lets you make a transaction that is valid LATER. 
+This has to do with one of the principles of Bitcoin. 
